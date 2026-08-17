@@ -23,7 +23,7 @@ This project was built as part of my **90-Day DevOps Challenge**, where I build 
 ## 📁 Project Structure
 
 ```text
-docker-log-analyzer/
+python-log-analyzer/
 ├── app.log
 ├── log_analyzer.py
 └── README.md
